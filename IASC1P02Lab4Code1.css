@@ -1,0 +1,17 @@
+body{background-color:blue}
+h1{
+margin: 100px 10% 100px 10%;
+border: 3px solid black;
+}
+p.para1{
+  margin:10px 5% 10px 5%;
+border: 1px dashed green;
+color:red;
+font-family: "arial", arial, sans-serif;
+font-size:12px;
+}
+p.para2{
+  margin:50px 75% 10px 1%;
+  padding: 10px 2% 10px 2%;
+border: 1px dashed green;
+color:;
